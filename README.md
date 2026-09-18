@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 🎨 DROP-IN ASSET: logo (recommended 240×240, transparent PNG) -->
-<img src="docs/assets/logo.png" alt="SpotifyCares AI Logo" width="140"/>
+
 
 # ⚙️ SPOTIFYCARES · AI SUPPORT ENGINE
 
